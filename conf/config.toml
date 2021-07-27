@@ -1,0 +1,13 @@
+[server]
+port=80
+
+[aliyun]
+accessKey=""
+accessSecret=""
+
+[log]
+level="debug" # error warn info debug
+path="logs"
+saveFiles=10
+suffix=".log"
+rotateHours=24
